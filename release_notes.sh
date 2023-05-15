@@ -28,12 +28,7 @@ fi
 echo ""
 echo "## Bugs"
 echo ""
-if [ "${DEVICE}" == "viva" ]; then
-    # Isn't going to be fixed anytime soon
-    echo "* [BPF Issues](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/#post-87620773)"
-else
-    echo "No known bugs"
-fi
+echo "No known bugs"
 echo ""
 
 echo "## Notes"
