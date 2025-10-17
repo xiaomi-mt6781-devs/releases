@@ -4,3 +4,5 @@
 
 This repo contains all stuff related to LineageOS OTA / Releases for viva
 
+You can find the local mnaifests in the `manifests/` folder
+
